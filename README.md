@@ -20,11 +20,11 @@ Machine Learning Algorithm: Convolutional Neural Networks (CNN)
 graphql
 Copy
 Edit
-├── frontend/           # Contains HTML and CSS files for the user interface
-├── backend/            # Python scripts for model integration and API handling
-├── model/              # Pre-trained CNN model files
-├── database/           # SQL scripts for database setup and management
-└── README.md           # Project documentation
+├── frontend/           
+├── backend/            
+├── model/             
+├── database/
+└── README.md        
 
 
 How to Run
